@@ -1,0 +1,2 @@
+Je hebt een klasse, dat is zoals een huis, auto of een lichaam. Daarin heb je objecten die de eigenschappen van de klasse bevatten.
+Het verschil is dus dat een klasse het voorwerp is en de objecten de eigenschappen van het voorwerp bevatten.
