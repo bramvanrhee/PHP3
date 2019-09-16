@@ -1,0 +1,3 @@
+- Query extends MySQL -> kan niet, een query is geen database!
+- Dier extends Konijn -> kan niet, niet ieder dier is een konijn!
+- Kofferbak extends auto -> kan niet, de kofferbak is een eigenschap van een auto!
