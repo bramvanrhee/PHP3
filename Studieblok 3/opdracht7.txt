@@ -1,0 +1,2 @@
+Als de constructor niet public is dan kan je geen objecten buiten de class aanmaken, wat zorgt voor problemen.
+Dit kan wel als je constructor public is.
