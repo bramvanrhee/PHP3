@@ -1,0 +1,10 @@
+het verschil tussen public, protected en private:
+
+PUBLIC: De variablen of functie is overal berijkbaar.
+
+PROTECTED: Variabelen en functies kunnen alleen gebruikt worden in de classes waara ze gedefineerd worden.
+
+PRIVATE: De variable is alleen berijkbaar vanuit zijn eigen class.
+
+Je moet niet alles public maken omdat,
+het vanaf buitenaf mogelijk is properties te wijzigen of methods uit te voeren.
